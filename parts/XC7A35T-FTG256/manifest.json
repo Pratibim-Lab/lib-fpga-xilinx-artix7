@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Xilinx_Artix7/XC7A35T-FTG256:XC7A35T-FTG256",
+  "name": "XC7A35T-FTG256",
+  "library": "FPGA_Xilinx_Artix7",
+  "file": "FPGA_Xilinx_Artix7.kicad_symdir/XC7A35T-FTG256.kicad_sym",
+  "description": "Artix 7 T 35 XC7A35T-FTG256",
+  "datasheet": "",
+  "keywords": "FPGA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-xilinx-artix7@master/parts/XC7A35T-FTG256/",
+  "part_path": "parts/XC7A35T-FTG256",
+  "symbol_file": "parts/XC7A35T-FTG256/XC7A35T-FTG256.kicad_sym",
+  "source_library": "FPGA_Xilinx_Artix7.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:07.860Z"
+}
